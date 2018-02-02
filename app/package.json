@@ -1,0 +1,21 @@
+{
+  "name": "inhoudingsplicht",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Sam Decrock",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "httpreq": "^0.4.24",
+    "morgan": "^1.9.0"
+  }
+}
